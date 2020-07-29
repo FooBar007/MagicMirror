@@ -13,6 +13,8 @@
     ],
     "morning" : [
         "Good morning, sunshine!",
+        "Enjoy your day!",
+        "How was your sleep?",
         "Who needs coffee when you have your smile?",
         "I hope your morning is as radiant as your amazing smile!",
         "An early-morning walk is a blessing for the whole day.",
@@ -74,5 +76,8 @@
         "All is well that ends well",
         "Early to bed and early to rise, makes a man healthy wealthy and wise",
         "Sufficient sleep, exercise, healthy food, and peace of mind are necessities–not luxuries."
+    ],
+    "....-01-01": [
+        "Happy new year!"
     ]
 }
